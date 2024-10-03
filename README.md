@@ -1,5 +1,5 @@
 
-# GREEN ENERGY MANAGEMENT
+# G.E.M App
 
 Green Energy Management App enables users to make informed energy choices through separate surveys for residential and commercial areas. By gathering insights on energy consumption patterns, the app provides personalized recommendations and rewards for adopting sustainable practices, helping users reduce their carbon footprint and contribute to a greener future.
 
